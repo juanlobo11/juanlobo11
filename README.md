@@ -54,8 +54,8 @@ Quality Systems      | Laboratory QA/QC · ICSH Standards
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Camilo%20Lobo%20Rúa-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Camilo%20Lobo%20Rúa-blue?style=flat&logo=linkedin)](www.linkedin.com/in/juanclobor)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:lobojuancamilo1@gmail.com)
 
 ---
 
